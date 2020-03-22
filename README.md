@@ -26,5 +26,4 @@ computer responds to you with words.
 
 • Same as Multi-Player
 
-• To play extract singlePlayerAsset.tar.gz, it already
-  contains singlePlayer.py file.
+• To play extract singlePlayerAsset.tar.gz, it already contains singlePlayer.py file.
