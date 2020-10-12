@@ -42,19 +42,19 @@ Features:
 -to exit the game give "exit00" as input
 
 -there is also a multiplayer.py file:
- 
- -it allows to 2 player to input words one after another on same device
- 
- -and all features mentioned above
+    
+    -it allows to 2 player to input words one after another on same device
+    
+    -and all features mentioned above
 
 # To-do
 Implement some rules of traditional game: 
 
 -block using certain parts of speech like:
 
- -block proper nouns, ex: gandhi
- 
- -block non-root word forms, ex: eats, eating, ate, only allow "eat".
+    -block proper nouns, ex: gandhi
+    
+    -block non-root word forms, ex: eats, eating, ate, only allow "eat"
 
 
 
