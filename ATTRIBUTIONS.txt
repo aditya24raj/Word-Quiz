@@ -1,0 +1,4 @@
+creator: Google
+
+This work, "words_list", is a derivative of- "http://storage.googleapis.com/books/ngrams/books/datasetsv2.html", by google,
+used under Creative Commons Attribution 3.0 Unported License- "https://creativecommons.org/licenses/by/3.0/".
